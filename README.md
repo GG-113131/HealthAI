@@ -12,7 +12,7 @@ A full-featured health app offering tools for personal health tracking and AI-po
 
 ## 🚀 Live Links
 
-- 📱 **Mobile App Demo Video** – [Watch here](#) *(insert YouTube or Drive link)*
+- 📱 **Mobile App Demo Video** – [Watch here](#) 
 - 🌐 **TumorSense Web App** – [https://health-ai-seven.vercel.app/](https://health-ai-seven.vercel.app/)
 - 🔗 **API Endpoint** – [https://api-6903.onrender.com/predict](https://api-6903.onrender.com/predict)
 
