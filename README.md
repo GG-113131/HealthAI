@@ -100,12 +100,12 @@ TumorSense allows users to upload MRI images and get instant predictions using a
 - Users can upload MRI images directly from the browser
 - Backend interaction via the same Flask API on Render
 
-> 🔗 **Try it now**: [TumorSense Web App](https://your-vercel-app-url.vercel.app)
+> 🔗 **Try it now**: [TumorSense Web App](https://health-ai-seven.vercel.app/)
 
 ---
 
 ### 🙋‍♂️ Developed And Documented By
-Goutham Krishna D
-Student @ Indian School Al Seeb, Muscat, Oman
+- Goutham Krishna D
+- Student @ Indian School Al Seeb, Muscat, Oman
 ---
 
