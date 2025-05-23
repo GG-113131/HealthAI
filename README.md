@@ -35,13 +35,13 @@ A full-featured health app offering tools for personal health tracking and AI-po
 
 TumorSense allows users to upload MRI images and get instant predictions using a lightweight AI model trained on brain tumor scans.
 
-## 🧠 Model Details:
+### 🧠 Model Details:
 
--Model Type:     Convolutional Neural Network (TFLite)
--Framework:      TensorFlow + Teachable Machine
--Input Size:     224 x 224 pixels
--Input Format:   Grayscale MRI scan
--Inference Time: ~0.3 seconds (on Render’s 0.1 CPU, 512MB RAM)
+- Model Type:Convolutional Neural Network (TFLite)
+- Framework:TensorFlow + Teachable Machine
+- Input Size:224 x 224 pixels
+- Input Format: Grayscale MRI scan
+- Inference Time: ~0.3 seconds (on Render’s 0.1 CPU, 512MB RAM)
 
 ---
 
