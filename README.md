@@ -43,6 +43,8 @@ TumorSense allows users to upload MRI images and get instant predictions using a
 -Input Format:   Grayscale MRI scan
 -Inference Time: ~0.3 seconds (on Render’s 0.1 CPU, 512MB RAM)
 
+---
+
 ### 📊 Model Accuracy Graphs
 
 ### 📊 Model Accuracy Per Epoch  
@@ -63,12 +65,16 @@ TumorSense allows users to upload MRI images and get instant predictions using a
 - Securely save all data using Firebase Firestore
 - Authenticate with Firebase Auth (email or Google login)
 
+---
+
 ### 📱 Mobile Version (Thunkable)
 
 - User uploads an MRI image from their phone
 - App uploads it to **Cloudinary**
 - It retrieves the image URL and sends it via a `POST` request to the Flask API
 - The API responds with a diagnosis and confidence score
+
+---
 
 ### 🧪 API: `/predict`
 
@@ -101,4 +107,5 @@ TumorSense allows users to upload MRI images and get instant predictions using a
 ### 🙋‍♂️ Developed And Documented By
 Goutham Krishna D
 Student @ Indian School Al Seeb, Muscat, Oman
+---
 
