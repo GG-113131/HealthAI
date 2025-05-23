@@ -13,7 +13,7 @@ A full-featured health app offering tools for personal health tracking and AI-po
 ## 🚀 Live Links
 
 - 📱 **Mobile App Demo Video** – [Watch here](#) *(insert YouTube or Drive link)*
-- 🌐 **TumorSense Web App** – [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
+- 🌐 **TumorSense Web App** – [https://health-ai-seven.vercel.app/](https://health-ai-seven.vercel.app/)
 - 🔗 **API Endpoint** – [https://api-6903.onrender.com/predict](https://api-6903.onrender.com/predict)
 
 ---
@@ -46,13 +46,13 @@ TumorSense allows users to upload MRI images and get instant predictions using a
 ### 📊 Model Accuracy Graphs
 
 ### 📊 Model Accuracy Per Epoch  
-![Model Accuracy Per Epoch](assets/accuracy_per_epoch.png)  
+![Model Accuracy Per Epoch](Assets/Acc.png)  
 
 ### 📊 Model Loss Per Epoch  
-![Model Loss Per Epoch](assets/loss_per_epoch.png)  
+![Model Loss Per Epoch](Assets/Loss.png)  
 
 ### 📊 Accuracy by Class  
-![Accuracy by Class](assets/accuracy_by_class.png)
+![Accuracy by Class](Assets/Class_Acc.png)
 
 ### 📋 MedLog – Health Tracker:
 
