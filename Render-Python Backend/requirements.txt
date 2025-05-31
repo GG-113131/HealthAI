@@ -3,3 +3,4 @@ flask-cors
 tensorflow==2.12.0
 pillow
 requests
+gunicorn
