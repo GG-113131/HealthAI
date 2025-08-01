@@ -101,7 +101,7 @@ TumorSense allows users to upload MRI images and get instant predictions using a
 ---
 
 ### 🙋‍♂️ Developed And Documented By
-- Goutham Krishna D
+- Goutham Krishna D and Govind Krishna D
 - Student @ Indian School Al Seeb, Muscat, Oman
 ---
 
