@@ -48,7 +48,7 @@ TumorSense allows users to upload MRI images and get instant predictions using a
 ### 📊 Model Accuracy Graphs
 
 ### 📊 Model Accuracy Per Epoch
-![Model Metrics](ReadMe Assets/Model Metrics.png)
+![Model Metrics](ReadMe%20Assets/Model%20Metrics.png)
 
 ---
 
