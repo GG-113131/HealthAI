@@ -98,6 +98,14 @@ text
 
 ---
 
+## 📄 TumorSense Web App Documentation
+
+For detailed explanations, model training code, deployment (Render) instructions, and additional metrics related to the TumorSense web app, please see:
+
+[📎 Download TumorSense Web App Documentation (PDF)](ReadMe%20Assets/TumorSenseWEB%20Documentation.pdf)
+
+---
+
 ## 📊 Model Performance
 
 The model was trained and evaluated with brain MRI datasets for reliable accuracy and fast inference time.
