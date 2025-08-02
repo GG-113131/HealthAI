@@ -110,9 +110,9 @@ The included model was trained and evaluated using MRI datasets to ensure reliab
 
 ## 🎥 Demo Videos and Live Links
 
-- **Mobile App Demo Video:** Watch a walkthrough of MedLog and TumorSense on mobile  
-- **TumorSense Web App:** Experience the standalone AI tumor detection in your browser  
-- **API Endpoint:** Direct prediction service URL (for developers)
+- **Mobile App Demo Video:** Watch a walkthrough of MedLog and TumorSense on mobile [Watch here](https://drive.google.com/file/d/1l4Vp8z7neR-Px5p4L53N2KrDT4VRJyWR/view?usp=sharing)
+- **TumorSense Web App:** Experience the standalone AI tumor detection in your browser [https://health-ai-seven.vercel.app/](https://health-ai-seven.vercel.app/)
+- **API Endpoint:** Direct prediction service URL (for developers) [https://api-6903.onrender.com/predict](https://api-6903.onrender.com/predict)
 
 ---
 
